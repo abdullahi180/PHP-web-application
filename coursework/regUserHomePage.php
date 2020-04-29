@@ -28,7 +28,7 @@
       line-height:65px;
       font-size: 2.5rem;
       font-family: 'Oswald', sans-serif;
-      /* background-color: red; */
+    
      }
 
      body{
