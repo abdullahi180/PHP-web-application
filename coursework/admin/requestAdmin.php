@@ -18,7 +18,7 @@ $result = mysqli_query($con,$query);
   <head>
     <meta charset="utf-8">
     <title>Requests</title>
-    <!-- <link rel="stylesheet" type="text/css" href="../.css/pagemainadmin.css"> -->
+ 
     <?php include 'links.php' ?>
     <style media="screen">
     *{
@@ -88,7 +88,7 @@ $result = mysqli_query($con,$query);
 
      <!--container -->
      <div style="position:relative;top:100px;" class="container bg-white">
-       <!-- <div class="heading text-center  text-uppercase text-white">Requests</div> -->
+    
        <table class="table table-striped table-hover table-bordered text-center">
           <tr>
             <th scope="col">Item ID</th>
