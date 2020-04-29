@@ -5,7 +5,7 @@ session_start();
 $id = $_GET['id'];
 include 'dataConnec.php';
 if ($con) {
-  //echo "connection success";
+
 }else {
   echo "connection not success";
 }
