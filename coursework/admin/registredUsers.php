@@ -2,7 +2,7 @@
 session_start();
 include 'dataConnec.php';
 if ($con) {
-  //echo "connection success";
+
 }else {
   echo "connection not success";
 }
@@ -27,7 +27,7 @@ $result = mysqli_query($con,$query);
     line-height:65px;
     font-size: 2.5rem;
     font-family: 'Oswald', sans-serif;
-    /* background-color: red; */
+   
    }
    body{
      background-image: url(../img/night.jpg);
@@ -76,8 +76,7 @@ $result = mysqli_query($con,$query);
 
       </div>
      <div style="position:relative;top:100px;" class="container bg-white">
-       <!-- <div class="heading text-center  text-uppercase text-white">Users</div> -->
-     <table class="table table-striped table-hover table-bordered text-center">
+        <table class="table table-striped table-hover table-bordered text-center">
        <tr>
          <th scope="col">ID</th>
          <th scope="col">Name</th>
