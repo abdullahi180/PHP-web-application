@@ -19,11 +19,11 @@
      line-height:65px;
      font-size: 2.5rem;
      font-family: 'Oswald', sans-serif;
-     /* background-color: red; */
+    
    }
 
    body{
-     /* background-image: url(img/jewerlyy.jpg); */
+   
      background-size:cover;
      background-attachment: fixed;
      color:black;
