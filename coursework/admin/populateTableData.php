@@ -7,15 +7,13 @@ if ($con) {
   echo "not connected";
 }
 
-// if (isset($_POST['submit'])) {
+
   $color = $_POST['color'];
   $type = $_POST['category'];
   $location = $_POST['location'];
   $date = $_POST['date'];
   $description = $_POST['description'];
-  // $image = $_POST['file'];
   $image = $_FILES['file'];
-
   $filename = $image['name'];
   $fileerror = $image['error'];
   $filetmp = $image['tmp_name'];
