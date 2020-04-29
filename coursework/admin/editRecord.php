@@ -11,7 +11,6 @@ include 'dataConnec.php';
  $date = $_POST['date'];
  $description = $_POST['description'];
  $image = $_POST['file'];
- // $q = " update crudtable set id=$id, username='$username', password='$password' where id=$id  ";
  $q =  " update items set id=$id, color='$color', type='$type', location='$location', date='$date', description='$description', image='$image' where id=$id ";
 
  $query = mysqli_query($con,$q);
