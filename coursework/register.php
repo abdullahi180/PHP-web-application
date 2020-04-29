@@ -2,7 +2,7 @@
 session_start();
 include 'configur.php';
 if ($con) {
-  //echo "connection success";
+
 }else {
   echo "connection not success";
 }
