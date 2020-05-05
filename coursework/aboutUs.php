@@ -87,13 +87,13 @@
                  <div class="card-body d-flex flex-column align-items-start">
 
                      <h3 class="mb-0">
-                         <a class="text-dark" href="#">WHAT WE DO..</a>
+                         <a class="text-dark" href="#">WHAT WE ARE ABOUT..</a>
                      </h3>
                      <p class="card-text mb-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                     <a href="#">Continue reading</a>
+                  
                  </div>
 
              </div>
@@ -102,13 +102,13 @@
              <div class="card flex-md-row mb-4 box-shadow h-md-250">
                  <div class="card-body d-flex flex-column align-items-start">
                      <h3 class="mb-0">
-                         <a class="text-dark" href="#">HOW WE CAN HELP YOU..</a>
+                         <a class="text-dark" href="#">HOW YOU CAN USE OUR SERVICES..</a>
                      </h3>
                      <p class="card-text mb-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                     <a href="#">Continue reading</a>
+                    
                  </div>
              </div>
          </div>
@@ -116,13 +116,13 @@
              <div class="card flex-md-row mb-4 box-shadow h-md-250">
                  <div class="card-body d-flex flex-column align-items-start">
                      <h3 class="mb-0">
-                         <a class="text-dark" href="#">HOW YOU CAN GET INVOLVED..</a>
+                         <a class="text-dark" href="#">HOW YOU CAN DO..</a>
                      </h3>
                      <p class="card-text mb-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                     <a href="#">Continue reading</a>
+                    
                  </div>
              </div>
          </div>
@@ -136,7 +136,7 @@
                         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                     <a href="#">Continue reading</a>
+                    
                  </div>
              </div>
          </div>
